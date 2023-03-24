@@ -1,0 +1,74 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+
+<cinema>
+    <movie>
+        <title>Plane</title>
+        <director>Jean-François Richet</director> 
+        <artist>Gerard James Butler</artist>
+        <country>United States</country>
+        <year>2023</year>
+        <duration>107 min</duration>
+        <genres>
+            <type1>Thriller</type1>
+            <type2>Action</type2>
+            <type3>Adventure</type3>
+            <type4>Mystery</type4>
+        </genres>
+    </movie> 
+    <movie>
+        <title>Black Adam</title>
+        <director>Jaume Collet-Serra</director>
+        <artist>Dwayne Douglas Johnson</artist>
+        <country>United States</country>
+        <year>2022</year>
+        <duration>125 min</duration>        
+        <genres>
+            <type1>Sci-Fi</type1>
+            <type2>Action</type2>
+            <type3>Fantasy</type3>
+            <type4>Thriller</type4>
+        </genres>
+    </movie>
+    <movie>
+        <title>Venom: Let There Be Carnage</title>
+        <director>Andrew Serkis</director>
+        <artist>Edward Thomas Hardy</artist>
+        <country>United States</country>
+        <year>2021</year>
+        <duration>97 min</duration>
+        <genres>
+            <type1>Thriller</type1>
+            <type2>Action</type2>
+            <type3>Adventure</type3>
+            <type4>Sci-Fi</type4>
+        </genres>
+    </movie>
+    <movie>
+        <title>Dolittle</title>
+        <director>Stephen Gaghan</director>
+        <artist>Robert John Downey Jr.</artist>
+        <country>United States</country>
+        <year>2020</year>
+        <duration>101 min</duration>   
+        <genres>
+            <type1>Comedy</type1>
+            <type2>Fantasy</type2>
+            <type3>Adventure</type3>
+            <type4>Family</type4>
+        </genres>
+    </movie>
+    <movie>
+        <title>John Wick: Chapter 3 - Parabellum</title>
+        <director>Chad Stahelski</director>
+        <artist>Keanu Reeves</artist>
+        <country>United States</country>
+        <year>2019</year>
+        <duration>130 min</duration>  
+        <genres>
+            <type1>Thriller</type1>
+            <type2>Action</type2>
+            <type3>Crime</type3>
+            <type4>Mystery</type4>
+        </genres>
+    </movie>
+</cinema>
